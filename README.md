@@ -13,7 +13,6 @@ _Goal_
 + Grow the snake as long as possible without hitting anything.
 
 _Game Over_
-
-+The game ends if the snake collides with:
++ The game ends if the snake collides with:
 1. The walls of the grid.
 2. Itself (i.e., its own body).
